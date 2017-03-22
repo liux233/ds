@@ -1,0 +1,1 @@
+seqlist is linear list
