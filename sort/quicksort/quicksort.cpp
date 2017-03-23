@@ -25,7 +25,7 @@ static int Partition(DataType arr[], int low, int high) {
             j--;
         }
     }
-    arr[i] = temp;
+    arr[i] = temp; //i == j
     return i;
 }
 
